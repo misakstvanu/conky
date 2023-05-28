@@ -17,7 +17,7 @@ conky.config = {
     no_buffers = true,
 
     own_window = true,
-    own_window_type = 'desktop',
+    own_window_type = true,
     own_window_transparent = true,
     own_window_argb_visual = true,
     own_window_argb_value = 255,
